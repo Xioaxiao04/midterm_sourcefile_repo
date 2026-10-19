@@ -15,6 +15,18 @@ This repository contains JavaScript source files and activity files for my midte
 - `CC104-W5-Hands-On-Exercise-Arrays.md` — Arrays exercise notes
 - `CC104_W6_Hands-On_Exercise-SQLL (2).md` — SQL exercise notes
 
+## Git Commands Practiced
+
+- `git clone` — Copy a remote repository to a local computer.
+- `git status` — Check the current working tree and staging area.
+- `git branch` — List or create branches.
+- `git checkout` — Switch between branches.
+- `git merge` — Combine changes from another branch.
+- `git pull` — Fetch and integrate changes from a remote repository.
+- `git push` — Upload local commits to GitHub.
+
+These commands help manage source code changes and collaborate using Git and GitHub.
+
 ## Purpose
 
 The purpose of this repository is to organize my source files, practice version control, and demonstrate Git and GitHub operations such as commits, branches, merging, pulling, and cloning.
