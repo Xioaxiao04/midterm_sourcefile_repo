@@ -1,36 +1,43 @@
-# Midterm JavaScript Source Files and Activities
 
-**GitHub Username:** Xiaoxiao04
+# Midterm Source Files Repository
 
-## About This Repository
+This repository contains JavaScript source files developed during the midterm period.
 
-This repository contains JavaScript source files and activity files for my midterm requirements. It includes exercises on basic JavaScript, arrays, and SQL-related lesson activities.
+## Topics and Activities
 
-## Files Included
-
-- `w3_Hands_On.js` — Week 3 hands-on activity
-- `w4_HandsOn.js` — Week 4 hands-on activity
-- `w5_Arrays.js` — Week 5 arrays activity
-- `w6_Lesson4.js` — Week 6 lesson activity
-- `CC104-W5-Hands-On-Exercise-Arrays.md` — Arrays exercise notes
-- `CC104_W6_Hands-On_Exercise-SQLL (2).md` — SQL exercise notes
-
-## Git Commands Practiced
-
-- `git clone` — Copy a remote repository to a local computer.
-- `git status` — Check the current working tree and staging area.
-- `git branch` — List or create branches.
-- `git checkout` — Switch between branches.
-- `git merge` — Combine changes from another branch.
-- `git pull` — Fetch and integrate changes from a remote repository.
-- `git push` — Upload local commits to GitHub.
-
-These commands help manage source code changes and collaborate using Git and GitHub.
+- Hands-on exercises
+- JavaScript arrays
+- Lesson exercises
+- Laboratory activities
 
 ## Purpose
 
-The purpose of this repository is to organize my source files, practice version control, and demonstrate Git and GitHub operations such as commits, branches, merging, pulling, and cloning.
+This repository is used to organize, manage, and upload my JavaScript source files using Git and GitHub.
 
-## Author
+## Source File Organization
 
-Xiaoxiao04
+The JavaScript files are organized by lesson and activity.
+Each file contains source code for the corresponding exercise.
+
+## Git Commands Practiced
+
+- git init
+- git status
+- git add
+- git commit
+- git remote add
+- git push
+- git pull
+- git clone
+- git branch
+- git checkout
+- git merge
+
+## Week 11 Practice
+
+I practiced creating a branch and making changes before merging them into the main branch.
+
+## Final Week 11 Update
+
+This update completes my Week 11 GitHub practice, including source file organization, commits, branching, merging, and repository synchronization.
+
